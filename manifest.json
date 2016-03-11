@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  "name": "Mono text",
+  "description": "This extension changes <textarea> style to use monospace font",
+  "version": "0.0",
+
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["findTextarea.js"]
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ]
+}
