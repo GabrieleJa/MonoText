@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Mono text",
+  "name": "MonoText",
   "description": "This extension changes <textarea> style to use monospace font",
   "version": "0.0",
   "icons": {
