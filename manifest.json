@@ -3,7 +3,7 @@
 
   "name": "MonoText",
   "description": "This extension changes all textareas' style to monospace font",
-  "version": "0.0",
+  "version": "0.1",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
