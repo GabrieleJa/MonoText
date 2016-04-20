@@ -1,7 +1,7 @@
 MonoText
 ========
 
-Chrome extension to change all textarea's to use monospaced fonts.
+Chrome extension to change all textarea's to use monospaced fonts, because I got tired that many websites support some sort of markup for their comment/forum/task/whatever sections, but it's sometimes hard to read/write markup in non fixed width font.
 
 .. image:: icon128.png
 
